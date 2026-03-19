@@ -8,7 +8,6 @@
 🚀 Full-Stack Dev in the making | ⚡ JavaScript · ⚛️ React · 🅰️ Angular · ☕ Java · 🐍 Python · 🗄️ SQL  
 🎨 Clean interfaces. 🔧 Solid logic. 📊 Meaningful data.
 
----
 
 ### 👨‍💻 About Me
 
@@ -19,7 +18,7 @@
 - 🌱 Currently levelling up in: **Linux & Cyber Security**
 - 🤝 Open to collaborating on open-source projects
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -32,7 +31,7 @@
 | 🔧 Tools | Git · GitHub · Android Studio · VS Code · Packet Tracer |
 | 🌐 Networking | Network Config · Protocols · Troubleshooting |
 
----
+
 
 ### 🎌 Fun Facts
 
