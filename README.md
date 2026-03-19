@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- GitHub Profile README — Lehlohonolo Thebe -->
+# Hey, I'm Lehlohonolo 👋🏾
 
-<!--
-**LehlohonoloOfTheNorth/LehlohonoloOfTheNorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Dev in the making | 📸 Photographer | 🎌 Anime Fan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Full-Stack Dev in the making | ⚡ JavaScript · ⚛️ React · 🅰️ Angular · ☕ Java · 🐍 Python · 🗄️ SQL  
+🎨 Clean interfaces. 🔧 Solid logic. 📊 Meaningful data.
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 ICT Diploma Graduate — Sol Plaatje University, Kimberley 🇿🇦
+- 💻 Building things that work **and** look good doing it
+- 📱 Mobile dev with Java for Android · 🌐 Web with React & Angular
+- 🗄️ Database nerd — SQL all day
+- 🌱 Currently levelling up in: **Linux & Cyber Security**
+- 🤝 Open to collaborating on open-source projects
+
+---
+
+### 🛠️ Tech Stack
+
+| Layer | Tools |
+|---|---|
+| 💻 Languages | Java · JavaScript · Python · SQL |
+| ⚛️ Frontend | React · Angular · HTML · CSS |
+| 📱 Mobile | Java for Android · XML |
+| 🗄️ Database | SQL · SQLite |
+| 🔧 Tools | Git · GitHub · Android Studio · VS Code · Packet Tracer |
+| 🌐 Networking | Network Config · Protocols · Troubleshooting |
+
+---
+
+### 🎌 Fun Facts
+
+> 🎌 I watch anime — and yes, I have opinions about which arc hit different.  
+> 🐾 My future best friend is a French Bulldog I haven't adopted yet but have already named in my head.  
+> 🎵 I can play the recorder. Underrated instrument. No I will not be taking questions.  
+> 📸 I see the world through a lens — literally. Photographer by passion, developer by day.  
+
+---
+
+### 📬 Let's Connect
+
